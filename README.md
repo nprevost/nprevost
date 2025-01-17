@@ -1,5 +1,13 @@
-## Hi there 👋
+<div align="center">
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=nprevost&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
 
+## Bienvenue sur mon portfolio !
+
+Je suis actuellement en formation chez Jedha, où j'apprends les compétences essentielles en data science. Voici une sélection de mes projets réalisés durant et après ma formation. Ces projets reflètent mon parcours d'apprentissage et mon engagement à maîtriser les outils et techniques de la data science.
+
+🌱 I’m currently learning
+
+📫 How to reach me: https://www.linkedin.com/in/nicolas-prevost-b3758a144/
 <!--
 **nprevost/nprevost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
